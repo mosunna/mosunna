@@ -12,11 +12,6 @@ Aspiring Gameplay Engineer | Interested in Software Engineering & Game Engines
 - [SlayTheRPG](https://github.com/mosunna/SlayTheRPG) - A turn based RPG inspired by Slay the Spire
 - My [personal website](https://github.com/mosunna/websiterepo)
 
-#### 💬 Ask me about ...
-
-- Gameplay Engineering
-- Game Engines
-- Breaking into Software Development as a student
 
 #### 🖥️ My Programming Languages of Choice ...
 
