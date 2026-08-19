@@ -24,13 +24,4 @@ Aspiring Gameplay Engineer | Interested in Software Engineering & Game Engines
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### 📊 My GitHub Stats
 
-<details>
-  <summary>Click for stats 📈</summary>
-  <br>
-  
-  ![Mosunna's GitHub stats](https://github-readme-stats.vercel.app/api?username=mosunna&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosunna&layout=compact&theme=dark)
-
-</details>
