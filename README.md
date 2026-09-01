@@ -9,7 +9,7 @@ Aspiring Gameplay Engineer | Interested in Software Engineering & Game Engines
 
 #### 🌱 I'm currently working on ...
 
-- [SlayTheRPG](https://github.com/mosunna/SlayTheRPG) - A turn based RPG inspired by Slay the Spire
+- [SlaytheRPG](https://github.com/mosunna/SlayTheRPG) - A turn based RPG inspired by Slay the Spire
 - My [personal website](https://github.com/mosunna/websiterepo)
 
 
