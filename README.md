@@ -9,8 +9,7 @@ Aspiring Gameplay Engineer | Interested in Software Engineering & Game Engines
 
 #### 🌱 I'm currently working on ...
 
-- [SlaytheRPG](https://github.com/mosunna/SlayTheRPG) - A turn based RPG inspired by Slay the Spire
-- My [personal website](https://github.com/mosunna/websiterepo)
+- [Titanfall 2 Gauntlet Recreation](https://github.com/mosunna/Titanfall2Gauntlet) - An Unreal Engine recreation of Titanfall 2's movement and movement tutorial level.
 
 
 #### 🖥️ My Programming Languages of Choice ...
